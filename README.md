@@ -9,8 +9,10 @@
 맡은 파트는 인사관리,조직도,주소록 파트가 있습니다.
 
 
+
  
  로그인 페이지
+ ---
 ![이미지1](https://user-images.githubusercontent.com/103404581/195015168-b33a651a-bea3-4fdd-85f9-e37fccee74b5.JPG)
 
 
@@ -18,13 +20,15 @@
 
 
 주소록 페이지
+ ---
 ![이미지3](https://user-images.githubusercontent.com/103404581/195015175-0151a51b-c543-4c2e-8995-90e82068ee0e.JPG)
  
  
  
  
  
- 
+ 데이터 베이스
+ ---
 ![db맵](https://user-images.githubusercontent.com/103404581/195014967-d27e95ab-9bf4-4a02-b445-f1111c1b1027.JPG)
 
 
